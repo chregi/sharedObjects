@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "325gkGGHH2WrswRh3qC3e9",
+      "service": "spotify",
+      "type": "artist",
+      "info": "fuchsbande"
+    },
+    {
+      "id": "5kfO0hrJ2B9B27G1fUbzVJ",
+      "service": "spotify",
+      "type": "artist",
+      "info": "robin hood"
+    },
+    {
+      "id": "6pcFFhdu5ETuSdCg9LsoIi",
+      "service": "spotify",
+      "type": "artist",
+      "info": "mascha & bär"
+    },
+    {
+      "id": "3d3HZUVqLqAp3CbKVQbXEn",
+      "service": "spotify",
+      "type": "artist",
+      "info": "go wild"
+    },
+    {
+      "id": "37i9dQZF1EVJSvZp5AOML2",
+      "service": "spotify",
+      "type": "playlist",
+      "info": "test playlist"
+    }
+  ]
+}
