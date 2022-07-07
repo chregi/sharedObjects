@@ -1,5 +1,12 @@
 {
   "categories": [
+    
+    {
+      "id": "0UKdmAmZVB2yNZo2ZbRp5h",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Zack Storm"
+    },
     {
       "id": "325gkGGHH2WrswRh3qC3e9",
       "service": "spotify",
