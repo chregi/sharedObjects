@@ -1,6 +1,17 @@
 {
   "categories": [
-    
+    {
+      "id": "1A000r9CutJcTGMVwCk1Xu",
+      "service": "spotify",
+      "type": "artist",
+      "info": "TKKG Junior"
+    },
+        {
+      "id": "752p3IcSA76CVOvqoGcFWH",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Teufelskicker"
+    },
     {
       "id": "0UKdmAmZVB2yNZo2ZbRp5h",
       "service": "spotify",
