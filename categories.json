@@ -6,7 +6,13 @@
       "type": "artist",
       "info": "TKKG Junior"
     },
-        {
+     {
+      "id": "4qhaHyCtCaFugTqT9LzuKp",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Feuerwehrmann Sam"
+    },
+    {
       "id": "752p3IcSA76CVOvqoGcFWH",
       "service": "spotify",
       "type": "artist",
