@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+     "id": "4qhaHyCtCaFugTqT9LzuKp",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Feuerwehrmann Sam"
+    },
+    {
+      "id": "7p5EwRiUqxJxnOCcULTHex",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Globi"
+    },
+    {
+      "id": "2x8vG4f0HYXzMEo3xNsoiI",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Bibi und Tina"
+    },
+    {
+      "id": "3KvAx6XEkbBWha4GGoCyHU",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Kasperli"
+    },
+    {
+      "id": "4sx4Rl41nAs0MITBMXmJsd",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Pingu"
+    },
+    {
+      "id": "1JPhbKU3boL67fftU3U1ED",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Paw Patrol"
+    },
+    {
+      "id": "5enzAipom8L2RuY9KtG9Fv",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Mia & Me"
+    },
+    {
+      "id": "0g12RW7N9VQmkjkcQreys3",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Miraculous"
+    },
+    {
+      "id": "3hz6X6o3yqDHxc5W0gKoBN",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Alviin & Chipmunks"
+    },
+    {
+      "id": "3YZqnPKdtP5qP4LSvrgx9i",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Petterson und Findus"
+    },
+    {
+      "id": "6b9DQDp0xKeYM2vdK9pAE6",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Leo Lausemaus"
+    },
+    {
+      "id": "46iD7xFc8ubzILibDQ7fL7",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Peppa Pig"
+    },
+    {
+      "id": "325gkGGHH2WrswRh3qC3e9",
+      "service": "spotify",
+      "type": "artist",
+      "info": "fuchsbande"
+    },
+    {
+      "id": "6pcFFhdu5ETuSdCg9LsoIi",
+      "service": "spotify",
+      "type": "artist",
+      "info": "mascha & bär"
+    }
+  ]
+}
