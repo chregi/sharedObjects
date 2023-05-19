@@ -1,6 +1,12 @@
 {
   "categories": [
     {
+      "id": "7c489FVO1pmK6pD8tGFcwV",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Kati & Azuro"
+    },
+    {
       "id": "5BOhng5bYwJNOR8ckMWpUg",
       "service": "spotify",
       "type": "artist",
@@ -12,6 +18,12 @@
       "type": "artist",
       "info": "TKKG Junior"
     },
+    {
+      "id": "61qDotnjM0jnY5lkfOP7ve",
+      "service": "spotify",
+      "type": "artist",
+      "info": "TKKG"
+    },    
     {
       "id": "4qhaHyCtCaFugTqT9LzuKp",
       "service": "spotify",
