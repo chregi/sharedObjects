@@ -174,13 +174,7 @@
       "type": "artist",
       "info": "Ritter Rost"
     },
-        {
-      "id": "7rUS5RrIBfrwPP2u8EU6hN",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Mullewapp"
-    },   
-    {
+     {
       "id": "46iD7xFc8ubzILibDQ7fL7",
       "service": "spotify",
       "type": "artist",
@@ -211,10 +205,22 @@
       "info": "go wild"
     },
     {
+      "id": "3jplYUzOnBFPQE7T7Q0kTs",
+      "service": "spotify",
+      "type": "podcast",
+      "info": "Test podcast"
+    },       
+    {
+      "id": "7iHfbu1YPACw6oZPAFJtqe",
+      "service": "spotify",
+      "type": "audiobook",
+      "info": "Test audiobook"
+    },   
+    {
       "id": "37i9dQZF1EVJSvZp5AOML2",
       "service": "spotify",
       "type": "playlist",
-      "info": "test playlist"
+      "info": "Test playlist"
     }
   ]
 }
