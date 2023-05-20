@@ -209,13 +209,7 @@
       "service": "spotify",
       "type": "podcast",
       "info": "Test podcast"
-    },       
-    {
-      "id": "7iHfbu1YPACw6oZPAFJtqe",
-      "service": "spotify",
-      "type": "audiobook",
-      "info": "Test audiobook"
-    },   
+    }, 
     {
       "id": "37i9dQZF1EVJSvZp5AOML2",
       "service": "spotify",
