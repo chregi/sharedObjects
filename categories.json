@@ -205,12 +205,6 @@
       "info": "go wild"
     },
     {
-      "id": "3jplYUzOnBFPQE7T7Q0kTs",
-      "service": "spotify",
-      "type": "podcast",
-      "info": "Test podcast"
-    }, 
-    {
       "id": "37i9dQZF1EVJSvZp5AOML2",
       "service": "spotify",
       "type": "playlist",
