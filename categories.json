@@ -209,6 +209,12 @@
       "service": "spotify",
       "type": "playlist",
       "info": "Test playlist"
+    },
+    {
+      "id": "0i0l6qrbt1VGEMlX5Xlp96",
+      "service": "spotify",
+      "type": "show",
+      "info": "Test show"
     }
   ]
 }
