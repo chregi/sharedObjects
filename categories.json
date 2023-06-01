@@ -205,16 +205,22 @@
       "info": "go wild"
     },
     {
-      "id": "37i9dQZF1EVJSvZp5AOML2",
+      "id": "3hKBajHFXVqJlfVxikIpZS",
       "service": "spotify",
       "type": "playlist",
-      "info": "Test playlist"
+      "info": "JOSHUA"
     },
     {
-      "id": "0na13LpMFoQHFS7LkhCJ9x",
+      "id": "0tt7M8y51CdplEhuTMfj7e",
       "service": "spotify",
       "type": "show",
-      "info": "Test show"
+      "info": "AVA"
+    },
+    {
+      "id": "0tt7M8y51CdplEhuTMfj7e",
+      "service": "spotify",
+      "type": "show",
+      "info": "Spielzeit"
     }
   ]
 }
