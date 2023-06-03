@@ -213,14 +213,14 @@
     {
       "id": "0tt7M8y51CdplEhuTMfj7e",
       "service": "spotify",
-      "type": "show",
+      "type": "playlist",
       "info": "AVA"
     },
     {
-      "id": "0tt7M8y51CdplEhuTMfj7e",
+      "id": "0na13LpMFoQHFS7LkhCJ9x",
       "service": "spotify",
       "type": "show",
-      "info": "Spielzeit"
+      "info": "Schlummerland"
     }
   ]
 }
