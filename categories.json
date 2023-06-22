@@ -221,6 +221,12 @@
       "service": "spotify",
       "type": "show",
       "info": "Schlummerland"
-    }
+    },
+    {
+      "id": "5b52JKQu8po2Z4PsHPz3a4",
+      "service": "spotify",
+      "type": "show",
+      "info": "CheckPod"
+    }    
   ]
 }
