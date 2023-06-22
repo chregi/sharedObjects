@@ -193,6 +193,12 @@
       "info": "robin hood"
     },
     {
+      "id": "6pcFFhdu5ETuSdCg9LsoIi",
+      "service": "spotify",
+      "type": "artist",
+      "info": "mascha & bär"
+    },
+    {
       "id": "3d3HZUVqLqAp3CbKVQbXEn",
       "service": "spotify",
       "type": "artist",
@@ -221,6 +227,13 @@
       "service": "spotify",
       "type": "show",
       "info": "CheckPod"
+    },
+    {
+      "id": "3O0nYFL7h6jigMqPfOkTnk",
+      "service": "spotify",
+      "type": "show",
+      "info": "SRF Kids Hörspiele"
     }
+     
   ]
 }
