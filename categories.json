@@ -233,7 +233,42 @@
       "service": "spotify",
       "type": "show",
       "info": "SRF Kids Hörspiele"
+    },
+    {
+      "id": "6h0l9ZkCxq8XwRHqOOVDtj",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Horse Club"
+    },
+    {
+      "id": "5XHchrkk32VTO05bnCwPeT",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Miss Melody"
+    },
+    {
+      "id": "4Gnz3S3kmJtwohGV1WaOUP",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Pippa Young"
+    },
+    {
+      "id": "55dz39BSDTWYbBFVZRj72b",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Astrix"
+    },
+    {
+      "id": "3GhvVhdZylZUmxABM30UeP",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Lucky Luke"
+    },
+    {
+      "id": "7LaUpdt99yGwIVg1l9TlaZ",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Spione Undercover"
     }
-     
   ]
 }
