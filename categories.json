@@ -269,6 +269,18 @@
       "service": "spotify",
       "type": "artist",
       "info": "Spione Undercover"
-    }
+    },
+    {
+      "id": "6YmWQLoEQM5H3VZhxmUS3k",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Leo und die Abenteuermaschine"
+    },
+    {
+      "id": "3EEImmhdhWRuO0SIBOkZVi",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Die Fussballbande"
+    }    
   ]
 }
