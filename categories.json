@@ -281,6 +281,18 @@
       "service": "spotify",
       "type": "artist",
       "info": "Die Fussballbande"
-    }    
+    },
+    {
+      "id": "4ZQxIjhAj3F0IhE1n0ONRX",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Team Xtreme"
+    },
+    {
+      "id": "0SZaub4ASzoTexzMwfWna2",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Philip Maloney"
+    }        
   ]
 }
