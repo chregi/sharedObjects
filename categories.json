@@ -293,6 +293,12 @@
       "service": "spotify",
       "type": "artist",
       "info": "Philip Maloney"
-    }        
+    },
+    {
+      "id": "1BElEHaU2xaZg7FOGsSird",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Die Schule der magischen Tiere"
+    }    
   ]
 }
