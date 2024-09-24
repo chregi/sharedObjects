@@ -299,6 +299,12 @@
       "service": "spotify",
       "type": "artist",
       "info": "Die Schule der magischen Tiere"
-    }    
+    },
+    {
+      "id": "2Xl8Eqgt8a9DsTohLDwZD3",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Gregs Tagebuch"
+    }   
   ]
 }
