@@ -305,6 +305,18 @@
       "service": "spotify",
       "type": "artist",
       "info": "Gregs Tagebuch"
-    }   
+    },
+    {
+      "id": "6NQtXhodb5tNerCDXaX3sN",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Stubete Gäng"      
+    },
+    {
+      "id": "1bDecXobkUyo9TwInfuTac",
+      "service": "spotify",
+      "type": "artist",
+      "info": "Erklärs mir, als wäre ich 5"      
+    }
   ]
 }
