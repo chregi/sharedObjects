@@ -317,6 +317,12 @@
       "service": "spotify",
       "type": "artist",
       "info": "Erklärs mir, als wäre ich 5"      
+    },
+    {
+      "id": "7wBglag9syy3J5gHkRpKFh",
+      "service": "spotify",
+      "type": "show",
+      "info": "Bleib entspannt!"
     }
   ]
 }
