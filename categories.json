@@ -323,6 +323,12 @@
       "service": "spotify",
       "type": "show",
       "info": "Bleib entspannt!"
-    }
+    },
+    {
+      "id": "1mgA8yPikSFMIUqUW6YjMT",
+      "service": "spotify",
+      "type": "show",
+      "info": "Creepypasta zum Einschlafen"
+    }    
   ]
 }
