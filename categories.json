@@ -1,12 +1,6 @@
 {
   "categories": [
     {
-      "id": "7c489FVO1pmK6pD8tGFcwV",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Kati & Azuro"
-    },
-    {
       "id": "5BOhng5bYwJNOR8ckMWpUg",
       "service": "spotify",
       "type": "artist",
@@ -25,22 +19,10 @@
       "info": "TKKG"
     },    
     {
-      "id": "4qhaHyCtCaFugTqT9LzuKp",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Feuerwehrmann Sam"
-    },
-    {
       "id": "752p3IcSA76CVOvqoGcFWH",
       "service": "spotify",
       "type": "artist",
       "info": "Teufelskicker"
-    },
-    {
-      "id": "0UKdmAmZVB2yNZo2ZbRp5h",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Zack Storm"
     },
     {
       "id": "7p5EwRiUqxJxnOCcULTHex",
@@ -65,18 +47,6 @@
       "service": "spotify",
       "type": "artist",
       "info": "Pingu"
-    },
-    {
-      "id": "1JPhbKU3boL67fftU3U1ED",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Paw Patrol"
-    },
-    {
-      "id": "3YVNhnRJA4fODe4IyUIeWN",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Lego Ninjago"
     },
     {
       "id": "7lWAti8HlNyw39Z5OI92Ep",
@@ -115,12 +85,6 @@
       "info": "Drachenzähmen"
     },
     {
-      "id": "3hz6X6o3yqDHxc5W0gKoBN",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Alviin & Chipmunks"
-    },
-    {
       "id": "0vLsqW05dyLvjuKKftAEGA",
       "service": "spotify",
       "type": "artist",
@@ -133,22 +97,10 @@
       "info": "Die drei ???"
     },    
     {
-      "id": "0do6spK4fXF2qVspidhKDB",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Planet der Dinosaurier"
-    },
-    {
       "id": "4MpuODBeOH8gBHqVZtXa7U",
       "service": "spotify",
       "type": "artist",
       "info": "Was ist Was Junior"
-    },
-    {
-      "id": "3OCFfIWnLWu3o037DrjSS3",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Dinotrux"
     },
     {
       "id": "3YZqnPKdtP5qP4LSvrgx9i",
@@ -161,24 +113,6 @@
       "service": "spotify",
       "type": "artist",
       "info": "Leo Lausemaus"
-    },
-    {
-      "id": "5TfrI6jiBpIpWRsrEXVtFN",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Käpt'n Sharky"
-    },
-        {
-      "id": "6zn86iqNCkQZqsBvEv6oBO",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Ritter Rost"
-    },
-     {
-      "id": "46iD7xFc8ubzILibDQ7fL7",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Peppa Pig"
     },
     {
       "id": "325gkGGHH2WrswRh3qC3e9",
@@ -247,12 +181,6 @@
       "info": "Miss Melody"
     },
     {
-      "id": "4Gnz3S3kmJtwohGV1WaOUP",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Pippa Young"
-    },
-    {
       "id": "55dz39BSDTWYbBFVZRj72b",
       "service": "spotify",
       "type": "artist",
@@ -269,30 +197,6 @@
       "service": "spotify",
       "type": "artist",
       "info": "Spione Undercover"
-    },
-    {
-      "id": "6YmWQLoEQM5H3VZhxmUS3k",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Leo und die Abenteuermaschine"
-    },
-    {
-      "id": "3EEImmhdhWRuO0SIBOkZVi",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Die Fussballbande"
-    },
-    {
-      "id": "4ZQxIjhAj3F0IhE1n0ONRX",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Team Xtreme"
-    },
-    {
-      "id": "0SZaub4ASzoTexzMwfWna2",
-      "service": "spotify",
-      "type": "artist",
-      "info": "Philip Maloney"
     },
     {
       "id": "1BElEHaU2xaZg7FOGsSird",
@@ -325,10 +229,10 @@
       "info": "Bleib entspannt!"
     },
     {
-      "id": "1mgA8yPikSFMIUqUW6YjMT",
+      "id": "32Aa42Dbmqm4GKsv3wUSMb",
       "service": "spotify",
-      "type": "show",
-      "info": "Creepypasta zum Einschlafen"
+      "type": "artist",
+      "info": "Die Olchis"
     }    
   ]
 }
