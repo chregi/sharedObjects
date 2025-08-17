@@ -233,6 +233,18 @@
       "service": "spotify",
       "type": "artist",
       "info": "Die Olchis"
-    }    
+    },
+    {
+      "id": "4ZLZN9ClZz2VT0RadVxLBp",
+      "service": "spotify",
+      "type": "album",
+      "info": "Silber - das zweite Buch der Träume"
+    },
+    {
+      "id": "6k4cfB0nqyFxol8pzpgqh3",
+      "service": "spotify",
+      "type": "album",
+      "info": "Silber - das dritte Buch der Träume"
+    } 
   ]
 }
